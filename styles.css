@@ -11,3 +11,14 @@
 footer {
     margin-top: auto; /* Duwt de footer naar beneden */
 }
+html, body {
+            height: 100%;
+            margin: 0;
+            display: flex;
+            flex-direction: column;
+        }
+
+        /* Zorg ervoor dat de footer altijd onderaan staat */
+        .content {
+            flex: 1;
+        }
