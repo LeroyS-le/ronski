@@ -8,3 +8,6 @@
     display: flex;        /* Maakt gebruik van flexbox */
     justify-content: center;  /* Centreert horizontaal */
 }
+footer {
+    margin-top: auto; /* Duwt de footer naar beneden */
+}
