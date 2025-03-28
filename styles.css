@@ -1,0 +1,10 @@
+.ronaldopicca {
+    width: 50%;            /* Pas aan naar gewenste grootte */
+    max-width: 400px;      /* Beperkt de maximale breedte */
+    height: auto;          /* Zorgt dat de hoogte proportioneel blijft */
+    border-radius: 10px;   /* Optioneel: afgeronde hoeken */
+}
+.center-container {
+    display: flex;        /* Maakt gebruik van flexbox */
+    justify-content: center;  /* Centreert horizontaal */
+}
